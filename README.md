@@ -1,13 +1,29 @@
-# Salve! Sou o João.
+# Olá, eu sou o João Henrique! 👋
 
-Sou estudante de Ciência da Computação na **UEL**.  
-Interesse em:
+Estudante de **Ciência da Computação na Universidade Estadual de Londrina (UEL)**, apaixonado por tecnologia, desenvolvimento de software e inteligência artificial.
 
-- Aprender mais sobre programação
-  -JavaScript
-  - React
-- Ganhar experiência para o mercado de trabalho
-- Trabalhar no mercado de tecnologia
+## 🎓 Sobre Mim
+- 🏫 Atualmente no curso de Ciência da Computação na **UEL**.
+- 🧠 Focado em estudos de **Machine Learning** e Ciência de Dados.
+- 🛠️ Experiência com desenvolvimento Backend.
+- 🌱 No momento, estou aprofundando meus conhecimentos em **NestJS**, **Docker**.
 
+## 💻 Tecnologias e Ferramentas
+- **Linguagens:** C, TypeScript, R.
+- **Backend:** NestJS, Node.js.
+- **Experiências extras:** Docker, Docker Compose, VirtualBox.
 
-![Eu programando](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE0bWwxZGd4bnJ3b2V0eXprbWc1OHNqZXl4MGU3cWs5bTRyYjJncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
+## 📊 Projetos em Destaque
+- **Machine Learning:** Desenvolvimento de modelos e análise de dados (em progresso).
+- **Library Management API:** Uma API robusta construída com NestJS para gestão de bibliotecas.
+- **Hash Extensível:** Implementação de estruturas de dados eficientes em C.
+- **Geometria em C:** Projeto focado em manipulação de formas geométricas e lógica de programação.
+
+## 📫 Como me encontrar
+- **E-mail:** [henriquejoaobatista77@gmail.com]
+
+---
+
+### 📈 Estatísticas do GitHub
+![Estatísticas do GitHub de João Henrique](https://github-readme-stats.vercel.app/api?username=joaoCosta-CA&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoCosta-CA&layout=compact&theme=radical)
