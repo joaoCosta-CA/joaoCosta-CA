@@ -9,13 +9,13 @@ Estudante de **Ciência da Computação na Universidade Estadual de Londrina (UE
 - 🌱 No momento, estou aprofundando meus conhecimentos em **NestJS**, **Docker**.
 
 ## 💻 Tecnologias e Ferramentas
-- **Linguagens:** C, TypeScript, R.
+- **Linguagens:** C, TypeScript.
 - **Backend:** NestJS, Node.js.
-- **Experiências extras:** Docker, Docker Compose, VirtualBox.
+- **Experiências extras:** Docker, Docker Compose.
 
 ## 📊 Projetos em Destaque
-- **Machine Learning:** Desenvolvimento de modelos e análise de dados (em progresso).
-- **Library Management API:** Uma API robusta construída com NestJS para gestão de bibliotecas.
+- **Machine Learning:** Análise de modelos e análise de dados (em progresso).
+- **Library Management API:** Uma API robusta construída com NestJS para gestão de bibliotecas(pessoal/estudos).
 - **Hash Extensível:** Implementação de estruturas de dados eficientes em C.
 - **Geometria em C:** Projeto focado em manipulação de formas geométricas e lógica de programação.
 
