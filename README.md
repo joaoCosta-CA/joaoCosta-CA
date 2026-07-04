@@ -26,19 +26,12 @@ Estudante de **Ciência da Computação na Universidade Estadual de Londrina (UE
 # 📈 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://ghstats.dev/api/card?username=joaoCosta-CA&theme=github_dark"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=joaoCosta-CA&theme=github-dark-blue"/>
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoCosta-CA&theme=github_dark"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=joaoCosta-CA&theme=github-dark"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://ghstats.dev/api/top-langs?username=joaoCosta-CA&layout=compact&theme=github_dark"/>
-</p>
----
-
-# 📊 Gráfico de Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoCosta-CA&theme=github-compact"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoCosta-CA&theme=github_dark"/>
 </p>
 
 ---
